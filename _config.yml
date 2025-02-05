@@ -1,0 +1,6 @@
+title: "Jayanta's Blog"
+author: "Jayanta Kumar Kamila"
+description: "A personal blog created using Jekyll."
+baseurl: "/blogs"
+url: "https://your-github-username.github.io"
+theme: minima

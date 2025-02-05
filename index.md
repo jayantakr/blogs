@@ -1,14 +1,9 @@
-blog_name: "Jayanta's Blog"
-author: "Jayanta Kumar Kamila"
-description: "A personal blog created using Jekyll."
-baseurl: ""
-url: ""
-theme: minima
+---
+layout: default
+title: "Blog"
+---
 
-github:
-https://github.com/jayantakr
+# Latest Blog Posts
 
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+<h2><a href="https://tsdebug.github.io/blogs/2025-02-06-setup-jekyll-blog/">My First Blog Post</a></h2>
+<p>This post is about how I was able to set up my Jekyll blog using Jekyll + GitHub-pages. It's from a persecption of a person new to Jekyll.</p>

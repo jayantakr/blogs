@@ -1,6 +1,9 @@
-title: "Jayanta's Blog"
+title: "My Blog"
 author: "Jayanta Kumar Kamila"
 description: "A personal blog created using Jekyll."
 baseurl: "/blogs"
-url: "https://your-github-username.github.io"
+url: "https://jayantakr.github.io"
 theme: minima
+
+# Custom permalink structure to remove date from URLs
+permalink: "/:title/"

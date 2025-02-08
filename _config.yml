@@ -3,7 +3,7 @@ author: "Jayanta Kumar Kamila"
 description: "A personal blog created using Jekyll."
 baseurl: "/blogs"
 url: "https://jayantakr.github.io"
-theme: minima
+theme: hyde
 
 # Custom permalink structure to remove date from URLs
 permalink: "/:title/"

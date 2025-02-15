@@ -125,4 +125,5 @@ With this easy yet powerful configuration, you now have a complete website that 
 - **Simple to manage with Markdown**
 - **Customizable with themes and plugins**
 - **SEO-friendly using Jekyll's native capabilities**
+
 This tutorial took you through setting up your repository, setting up Jekyll, creating posts, setting up GitHub Pages, and customizing your site—all with minimal work.

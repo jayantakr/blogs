@@ -118,4 +118,11 @@ Edit **_config.yml** to personalize:
 - Change the **title** and **description**.
 - Modify the **theme**.(Choose the theme whichi will be suitable for your blog)
 
-By this way you can have a **fully working Jekyll blog** using just _config.yml and .md files.
+## Conclusion: How to setup of Jekyll on Github Pages?
+With this configuration, you now have a complete Jekyll-powered blog hosted for free on GitHub Pages with only `_config.yml` and `.md` files—no complicated installations! Your blog is lightweight, customizable, and entirely in your control.
+With this easy yet powerful configuration, you now have a complete website that is:
+- **Free to host on GitHub Pages**
+- **Simple to manage with Markdown**
+- **Customizable with themes and plugins**
+- **SEO-friendly using Jekyll's native capabilities**
+This tutorial took you through setting up your repository, setting up Jekyll, creating posts, setting up GitHub Pages, and customizing your site—all with minimal work.

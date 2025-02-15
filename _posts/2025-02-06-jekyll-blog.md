@@ -5,7 +5,7 @@ author: "Jayanta Kumar Kamila"
 date:2025-02-06
 description: "A personal blog created using Jekyll."
 ---
-# Full setup of Jekyll 0on Github Pages
+# Full setup of Jekyll on Github Pages
 
 Here's a minimalist approach to setting up Jekyll on GitHub Pages using only the _config.yml and .md files. No external tools or plugins—just pure Jekyll and GitHub Pages. So to setup this follow the following steps:
 

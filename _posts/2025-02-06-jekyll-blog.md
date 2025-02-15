@@ -66,12 +66,13 @@ This is where your blog posts will go.
 
 3. Write some content inside the file like 
 
----
+```
 layout: post
 title: "Full Jekyll Setup"
 date: 2025-02-08
 categories: [Blog, Personal]
----
+
+```
 
 Welcome to my first blog post! This is a simple post written using Markdown.
 
@@ -89,12 +90,13 @@ To add a new post, follow these steps:
 2. Name it in the format:
 `_posts/YYYY-MM-DD-title.md`
 3. Write the content:
----
+
+```
 layout: post
 title: "Second Blog Post"
 date: 2025-02-09
 categories: [Thoughts]
----
+```
 
 This is my second blog post.
 4. Click **Commit changes**.

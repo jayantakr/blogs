@@ -45,7 +45,7 @@ theme: minima
 4. Click **Commit changes.**
 
 
-# *2. Create an index.md File*
+# *2. Create an `index.md` File*
 This is your homepage.
 
 1. Click **Add file > Create new file.**
@@ -64,7 +64,7 @@ title: "BLOG"
 4. Click **Commit changes.**
 
 
-# *3. Create a _posts Directory*
+# *3. Create a `_posts` Directory*
 This is where your blog posts will go.
 
 1. In your repository, **click Add file > Create new file.**

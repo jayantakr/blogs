@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Jayanta's Blog"
+title: "Blog of SetUp Jekyll"
 author: "Jayanta Kumar Kamila"
 date: 2025-02-06
-description: "A personal blog created using Jekyll."
+description: "A comprehensive guide on setting up a Jekyll blog using GitHub Pages, covering installation, configuration, deployment, and customization—all without using any external tools."
 ---
 
 

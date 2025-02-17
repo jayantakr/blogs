@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog of SetUp Jekyll"
+title: "Full SetUp of Jekyll"
 author: "Jayanta Kumar Kamila"
 date: 2025-02-06
 description: "A comprehensive guide on setting up a Jekyll blog using GitHub Pages, covering installation, configuration, deployment, and customization—all without using any external tools."

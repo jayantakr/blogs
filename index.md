@@ -6,6 +6,6 @@ title: "BLOG"
 # Blog Posts
 
 {% for post in site.posts %}
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">Jekyll Blog</a></h2>  
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>  
+  <p>{{post.description}}</P>
 {% endfor %}
-<p>In this post I have setup my blog using Jekyll in GitHub page.</P>

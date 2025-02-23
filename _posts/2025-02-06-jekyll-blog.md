@@ -7,9 +7,11 @@ description: "A comprehensive guide on setting up a Jekyll blog using GitHub Pag
 ---
 
 
-### **Full setup of Jekyll on Github Pages**
+### **Full setup of Jekyll on GitHub Pages**
 
 Here's a minimalist approach to setting up Jekyll on GitHub Pages using only the _config.yml and .md files. No external tools or plugins—just pure Jekyll and GitHub Pages. So to setup this follow the following steps:
+
+(/blogs/images/blog.png)
 
 ### **Steps 1: Create a GitHub Repository**
 1. Go to `GitHub` and log in.
@@ -18,7 +20,7 @@ Here's a minimalist approach to setting up Jekyll on GitHub Pages using only the
 (This is required for GitHub Pages hosting.)
 4. Choose **Public.**
 5. Click **Create Repository.**
-
+(/blogs/images/repo create.png)
 
 ### **Step 2: Add Jekyll Files to Your Repository**
 
@@ -88,10 +90,15 @@ Welcome to my first blog post! This is a simple post written using Markdown.
 4. Click **Commit changes.**
 
 
-### **Step 3: Enable GitHub Pages(as live)**
+### **Step 3: Enable GitHub Pages (as live)**
 
 1. Go to **Settings > Pages in your GitHub repository.**
+
+(/blogs/images/pic.jpg)
+
+(/blogs/images/pic1.jpg)
 2. Under **"Branch", select main.**
+(/blogs/images/pic3.png)
 3. Click Save.
 
 ### **Step 4: Add More Blog Posts**
